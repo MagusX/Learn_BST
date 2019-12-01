@@ -1,0 +1,3 @@
+﻿  BSTDemo.cpp
+D:\source\repos\BSTDemo\BSTDemo\BSTDemo.cpp(33): warning C4715: 'find': not all control paths return a value
+  BSTDemo.vcxproj -> D:\source\repos\BSTDemo\Debug\BSTDemo.exe
